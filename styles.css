@@ -1,0 +1,67 @@
+body {
+    font-size: 20px;
+    background-color: #CEBEBE;
+    color: #6D2E46;
+    padding: 7.5%;
+    text-align: center;
+}
+h1 {
+    font-size: 35pt;
+    font-weight: 700;
+}
+#intropara {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.para {
+    font-size: 18px;
+    color: #6D2E46;
+    text-indent: 50px;
+}
+#choclist {
+    text-align: left;
+}
+h5 {
+    color:black
+}
+carousel-item {
+    width: 10%;
+    height: 20%;
+}
+.section1 {
+    background-color: #4A4E69;
+    color: #F2E9E4;
+    border-color: #F2E9E4;
+    border-radius: 20px;
+    padding-left:10%;
+    padding-right:10%;
+}
+.section2 {
+    background-color: #ECE2D0;
+    color: #22223b;
+    border-color: #22223b;
+    border-radius: 20px;
+    padding-left:10%;
+    padding-right:10%;
+}
+.card {
+    color: black;
+    font-size: 12pt;
+}
+.card-text {
+    font-style: italic;
+}
+.accordion-button {
+    background-color:#D5B9B2;
+    color: #A26769;
+}
+.accordion-body {
+    background-color: #ECE2D0;
+    color: #6D2E46;
+}
+
+
+
+/* colours in monochromatic scheme - #664370, #EDDAF2, #D990F0, #643D70, #AE74C0 */
+/* new colour scheme colours (burgundy) - #CEBEBE, #ECE2D0, #D5B9B2, #A26769, #6D2E46 */
+/* color scheme(navy) - #22223b, #4A4E69, #9A8C98, #C9ADA7, #F2E9E4 */
